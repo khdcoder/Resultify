@@ -1,2 +1,2 @@
 # Resultify
-Resultify is a complete school result management system that allows students to check results online using roll numbers, while giving administrators full control to manage classes, subjects, and generate result cards in batches. Built with a clean UI and powerful backend for schools of all sizes.
+Resultify is a complete school result management system that allows students to check results online using roll numbers, while giving administrators full control to manage classes, subjects, and generate result cards in batches. Built with a clean UI and powerful backend for schools of all sizes. By using this the results of the students will be shown online in one click, No manual work required..
